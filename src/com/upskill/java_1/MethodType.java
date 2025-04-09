@@ -6,7 +6,9 @@ public class MethodType {
 //	2. Static Method
 //	3. Return Type Method;
 	
-	public static int hourlyIncome =  65;
+	//test git
+	
+	public static int hourlyIncome =  68;
 	
 	//Void Method
 	public void annualIncomeVoid(){
