@@ -1,7 +1,7 @@
 package com.upskill.java_1;
 
 public class DataTypes {
-
+//test example first commit
 	public static void main(String[] args) {
 		
 		System.out.println("Hello World,this is srity");
